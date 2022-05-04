@@ -1,2 +1,2 @@
 # AlogrithmPractice
-Just practicing some algorithms :)
+Just practicing some algorithms
